@@ -8,5 +8,5 @@ function lastImageSelector(){
 }
 
 function ninjaBabySelector(){
-  return document.body.getElementsByID("baby-ninja");
+  return document.body.getElementsById("baby-ninja");
 }
