@@ -1,4 +1,4 @@
 // declare your functions here...
 function paragraphSelector(){
-  document.getElementsByTagName('p');
+  document.body.getElementsByTagName('p');
 }
