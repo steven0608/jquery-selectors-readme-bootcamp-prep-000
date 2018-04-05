@@ -2,3 +2,7 @@
 function paragraphSelector(){
   return document.body.getElementsByTagName('p');
 }
+
+function lastImageSelector(){
+  return $("img:last");
+}
