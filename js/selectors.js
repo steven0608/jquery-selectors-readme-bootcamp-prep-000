@@ -8,5 +8,5 @@ function lastImageSelector(){
 }
 
 function ninjaBabySelector(){
-  return document.body.querySelector(#baby-ninja);
+  return $("#baby-ninja");
 }
